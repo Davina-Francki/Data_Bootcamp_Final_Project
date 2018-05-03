@@ -1,5 +1,5 @@
 # Data_Bootcamp_Final_Project
-My final project
+
 This project was completed by insert Davina Francki in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2018. I certify that the NYU Stern Honor Code applies to this project. 
 
 In particular, I have:
